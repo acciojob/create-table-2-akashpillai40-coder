@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+table{
+	width:500px;
+	height:500px;
+	border:1px solid black;
+	margin-bottom:10px;
+}
+th td{
+	padding:20px;
+}
